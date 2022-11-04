@@ -1,0 +1,18 @@
+YT = https://www.youtube.com/watch?v=jS4aFq5-91M
+Scrimba = https://scrimba.com/learn/learnjavascript
+
+-------------------------------
+
+Prima lezione fino a:
+
+25:08 (YT)
+Lezione 9 (Scrimba)
+
+-------------------------------
+
+Seconda lezione fino a:
+
+53:17 (YT)
+Lezione 21 (Scrimba)
+
+-------------------------------
